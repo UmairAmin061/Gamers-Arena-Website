@@ -18,5 +18,5 @@ Provide instructions or examples on how to use your application.
 ![Home Screen](assets/Screenshot_1.png)
 
 ### Login Page
-![Home Screen](assets/Screenshot_1.png)
+![Home Screen](assets/Screenshot_2.png)
 
